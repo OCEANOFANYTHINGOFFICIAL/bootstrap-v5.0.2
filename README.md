@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="https://github.com/OCEANOFANYTHINGOFFICIAL/bootstrap-v5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://oceanofanythingofficial.github.io/bootstrap-v5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <title>Hello, world!</title>
   </head>
@@ -19,7 +19,7 @@
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="https://github.com/OCEANOFANYTHINGOFFICIAL/bootstrap-v5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://oceanofanythingofficial.github.io/bootstrap-v5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 
     <!-- Option 2: Separate Popper and Bootstrap JS -->
     <!--
@@ -30,9 +30,9 @@
 ```
 # Only Css
 ```html
-<link href="https://github.com/OCEANOFANYTHINGOFFICIAL/bootstrap-v5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://oceanofanythingofficial.github.io/bootstrap-v5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
 ```
 # ONLY JavaScript With Bundle
 ```html
-<script src="https://github.com/OCEANOFANYTHINGOFFICIAL/bootstrap-v5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://oceanofanythingofficial.github.io/bootstrap-v5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 ```
